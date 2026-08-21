@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Evolutionary Multitask Optimization
 
 ## 一、项目介绍
@@ -189,3 +190,7 @@ class 测试集名称(Problem):  # 必须继承 Problem 类
 该项目使用 [MIT 许可证](https://opensource.org/licenses/MIT)。
 
 您可以自由地使用、修改、合并、发布、分发、再许可和/或销售该软件的副本，但必须遵守许可证的条件。
+=======
+# EMTO-Platform
+EMTO-Platform is a Python research toolkit for evolutionary multitask optimization. It collects single-task, multitask, many-task, and real-world optimization problems together with representative evolutionary algorithms, so researchers can reproduce experiments, compare methods, and add new algorithms in a shared code structure.
+>>>>>>> f9ce67b5f938d07db336da85954c3978995313a5
